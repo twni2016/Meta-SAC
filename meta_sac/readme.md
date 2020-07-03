@@ -8,7 +8,7 @@ The paper results can be reproduced by running:
 ```bash
 python mainmeta.py configs/{env}.yml
 ```
-Debug mode: set `exp_id` as `debug` to print the logging.
+The logs will be saved in `logs/exp_id/seed.txt`. Debug mode: set `exp_id` as `debug` to print the logging.
 
 ## Ablation studies
 - Ablation study D.1: using arbitrary states, please set `meta_obj_s0` as False.

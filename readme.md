@@ -16,4 +16,4 @@ PyTorch implementation of Meta-SAC and baselines.
 - TD3: `TD3` directory
 
 ## Reference
-https://github.com/pranz24/pytorch-soft-actor-critic
+[pytorch-soft-actor-critic](https://github.com/pranz24/pytorch-soft-actor-critic)
