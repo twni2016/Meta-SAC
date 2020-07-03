@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+build/
+.ipynb_checkpoints
+*.ipynb
+
+# VS Code
+.vscode/
+
+# logs
+logs/
