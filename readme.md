@@ -1,6 +1,6 @@
 # Meta-SAC
 **Meta-SAC: Auto-tune the Entropy Temperature of Soft Actor-Critic via Metagradient.**   
-Arxiv link: https://arxiv.org/pdf/2007.01932.pdf
+[arXiv link](https://arxiv.org/pdf/2007.01932.pdf)
 
 Yufei Wang*, Tianwei Ni*. In 7th ICML [AutoML](https://sites.google.com/view/automl2020/home?authuser=0) workshop, 2020.
 
